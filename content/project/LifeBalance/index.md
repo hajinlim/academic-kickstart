@@ -1,14 +1,14 @@
 +++
-title = "Test"
+title = "Life Balance of Digital Natives"
 date = 2019-02-24T21:01:40-05:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ['Life Balance', 'Work life balance', 'Interview', 'Design Implication', 'Digital Native', 'Technology']
 
 # Project summary to display on homepage.
-summary = "test"
+summary = "Is technology a friend or foe for your life balance?"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -43,3 +43,17 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+
+
+### Summary
+
+Previous research has shown that communication technologies may make it challenging for working professionals to manage the boundaries between their work life and home life. For college students, however, there is a less clear definition of what constitutes work and what constitutes home life. As a result, students may use different boundary management strategies than working professionals. To explore this issue, we interviewed 29 undergraduates about how they managed boundaries between different areas of their life. Interviewees reported maintaining flexible and permeable boundaries that are not bounded physically or temporally. They used both technological and non-technological strategies to manage different life spheres. Interviewees saw technology as a major source of boundary violations but also as a boundary managing strategy that allowed them to achieve better life balance. Based on these findings, we propose design implications for tools to better support the boundary management processes of undergraduate students.
+
+
+
+### Research Method
+* Semi-structured Interview
+
+### Publication
+**Hajin Lim**, Ian Arawjo, Yaxian Xie, Negar Khosjaste, and Susan R. Fussell. 2017. Distraction or Life Saver? The Role of Technology in Undergraduate Students’ Boundary Management Strategies, Proceedings of the ACM on Human-Computer Interaction Volume 1 Issue CSCW'18 {{% staticref "publication/lim-2017-distraction/lim-2017-distraction.pdf" "newtab" %}}[pdf]{{% /staticref %}}   {{% staticref "publication/lim-2017-distraction/CSCW_Boundary.pdf" "newtab" %}}[talk_slide]{{% /staticref %}}
